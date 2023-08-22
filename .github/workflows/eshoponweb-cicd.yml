@@ -9,7 +9,7 @@ env:
   LOCATION: westindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 854ef62f-88be-4763-80c5-5b95a46a6802
-  WEBAPP-NAME: az400-webapp-sm17
+  WEBAPP-NAME: az400-webapp-sm1731
 
 
 jobs:
